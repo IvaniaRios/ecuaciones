@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&display=swap');
+
+body{
+    background-image: url(https://previews.123rf.com/images/kytalpa/kytalpa1301/kytalpa130100013/17526946-patr%C3%B3n-de-fondo-sin-fisuras-ilustraci%C3%B3n-de-dibujos-matem%C3%A1ticas-estilo-garabato.jpg);
+
+
+    background-position: center center;
+    
+    
+    background-repeat: no-repeat;
+    
+    background-attachment: fixed;
+       
+    background-size: cover; 
+    
+}
+h1{
+    background-color: #fff;
+    font-family: 'Cormorant Garamond', serif;
+    text-align: center;
+    text-decoration: solid;
+
+}
+.vid {
+    margin: auto;
+    width: 50%;
+    padding: 5px;
+    border: thin solid black;
+  }
+  .titulo{
+color: darkblue;
+    font-family: 'Cormorant Garamond', serif;
+    text-transform:lowercase ;
+
+  }
